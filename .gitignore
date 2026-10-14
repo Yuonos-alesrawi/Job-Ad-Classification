@@ -1,0 +1,12 @@
+dataset.csv
+.venv
+build_dataset.py
+job.txt
+vcs.xml
+Project_default.xml
+profiles_settings.xml
+modules.xml
+misc.xml
+JobAdClassification.iml
+.idea
+__pycache__
