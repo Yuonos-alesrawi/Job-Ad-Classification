@@ -1,6 +1,5 @@
 dataset.csv
 .venv
-build_dataset.py
 job.txt
 vcs.xml
 Project_default.xml
@@ -10,3 +9,4 @@ misc.xml
 JobAdClassification.iml
 .idea
 __pycache__
+dataset.py
